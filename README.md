@@ -22,3 +22,7 @@ Further research could potentially employ this model on other corpora.
 Additionally, aspect such as n-grams and sentiment analysis were considered.
 
 The results vary depending on the features and models.
+
+
+It can be assumed that better perforamnce could be attained with the use of DL techniques.
+Thereupon, further investigation of detecting cyber-hate would include neutral networks-based algorithms and especially, pre-trained models such as BERT or GPT-3.
